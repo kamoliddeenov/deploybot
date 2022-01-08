@@ -5,7 +5,7 @@ from utils.misc.product import Product
 
 
 ds_praktikum = Product(
-    title="Data Science va Sun'iy intellekt",
+    title="Data Science va Sun'iy intellekt kursi",
     description="Kursga to'lov qilish uchun quyidagi tugmani bosing.",
     currency="USD",
     prices=[
